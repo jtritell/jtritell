@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi Im Jordan
 
-<!--
-**jtritell/jtritell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗️ I am building AI for architects in real estate. Let's build more housing 
+[Redflag: AI Site Analysis](https://www.redflagdata.com/)
 
-Here are some ideas to get you started:
+Prior companies and projects:
+DARPA Humanoid Robot Competition
+Oculus VR (Meta Quest)
+[Enflux motion capture suit](https://getenflux.com)
+Niantic Real World AR Games ([Catan World Explorers]() and [NBA All World](https://www.youtube.com/watch?v=WJNgxivLRwY))
+BloxyOps: AI live ops for Roblox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech: I build in any language necessary. I am currently interested in LLMs. 
+
+Most Impressive Project:
+A full pipeline from sensors on a Bluetooth device to a game endine for motion capture.
+
