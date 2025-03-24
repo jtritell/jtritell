@@ -1,6 +1,7 @@
 ## Hi Im Jordan
 
 🏗️ I am building AI for architects in real estate. Let's build more housing 
+
 [Redflag: AI Site Analysis](https://www.redflagdata.com/)
 
 Prior companies and projects:
